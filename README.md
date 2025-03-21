@@ -17,12 +17,9 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
  
 
 ## Program:
-```
-/*
-Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: Yokesh I
-RegisterNumber: 24013623  
-*/
+## Program to implement the the Logistic Regression Using Gradient Descent.
+### Developed by: k vijay
+### RegisterNumber: 23004034
 ```
  import pandas as pd
  
@@ -116,7 +113,7 @@ RegisterNumber: 24013623
  y_prednew=predict(theta,xnew)
  
  print("Predicted Result:",y_prednew)
-
+```
 ## Output:
 ![logistic regression using gradient descent](sam.png)
 ![123](https://github.com/user-attachments/assets/1c921e6e-87b1-4cab-bea1-dc9a90553fa0)
